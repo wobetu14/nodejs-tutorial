@@ -1,0 +1,22 @@
+{
+  "name": "nodejstutorial",
+  "version": "1.0.0",
+  "description": "Node js tutorial practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wobetu14/nodejs-tutorial.git"
+  },
+  "author": "Wobetu S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wobetu14/nodejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/wobetu14/nodejs-tutorial#readme",
+  "dependencies": {
+    "date-fns": "^3.3.1"
+  }
+}
